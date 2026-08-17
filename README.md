@@ -1,4 +1,5 @@
 # meccha-camouflage-V1.7.2
+(this might be the last version i will make since i dont earn on it..)
 
 # SetUp / download:
 (Follow the guide)
