@@ -1,6 +1,6 @@
 # meccha-camouflage-V1.7.2
 
-# SetUp:
+# SetUp / download:
 (Follow the guide)
 
  - 1 You Will Need The Following
