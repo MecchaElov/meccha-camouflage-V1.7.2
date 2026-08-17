@@ -41,3 +41,6 @@ and done
 
 buy me a coffie
 btc: 1Q2TWHE3GMdB6BZKafqwxXtWAWgFt5Jvm3
+
+
+(so sorry for the massive erros we have fixed everthing now)
