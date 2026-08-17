@@ -1,5 +1,17 @@
-# meccha-camouflage-V1.7.2
-(this might be the last version i will make since i dont earn on it..)
+# meccha camouflage V1.7.2
+(might be last version since i dont earn on it)
+
+
+# What's Changed?
+
+- Added mesh-based Side interpolation using Front and Back boundaries.
+- Added separate Albedo calibration and physical Emissive estimation using both source evidence and target response.
+- Added adaptive Paint dispatch pacing to reduce sustained game-thread load during replay.
+- Added diagnostics for correction fields, Emissive estimation, compression, and Paint dispatch timing.
+- Changed Environment Paint to project captured appearance directly onto the mesh and generate one shared correction field for Front, Side, and Back.
+- Changed Paint target selections to affect only the final replay, not capture or correction.
+- Changed Color Compression to reduce Paint calls while respecting coverage, UV islands, regions, material boundaries, and representative colors.
+- Removed Auto Material, Include Shadows, Side Source Max UV, and the retired SPSA and cluster-fitting paths.
 
 # SetUp / download:
 (Follow the guide)
