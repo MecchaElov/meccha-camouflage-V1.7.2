@@ -12,17 +12,17 @@
 # SetUp / download:
 (Follow the guide)
 
- - 1 You Will Need The Following:
+ 1. - 1 You Will Need The Following:
 winrar,
 python,
 
- - 2 before download you will need to turn off smart app control and windows Defender..
+ 2. - 2 before download you will need to turn off smart app control and windows Defender..
 (if you are not sure about this it is beacuse windows defender takes closed source as a "virus" and smart app control wont let you open closed source projects if they do not have a verified realeser)
 
- - 3 download "meccha camouflage V2.1" then create a folder on your desktop and call it whatever you want now put the files from the winrar into your new folder..
+ 3. - 3 download "meccha camouflage V2.1" then create a folder on your desktop and call it whatever you want now put the files from the winrar into your new folder..
 (password is "Meccha")
 
- - 4 open "main (open to start).bat" as admin if not it wont open (only way i could fix this)..
+ 4. - 4 open "main (open to start).bat" as admin if not it wont open (only way i could fix this)..
 
 and done
 
