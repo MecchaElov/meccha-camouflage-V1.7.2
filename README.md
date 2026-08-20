@@ -1,5 +1,6 @@
 # meccha camouflage V2.1
 
+i am soon gonna stop making meccha cheats i might start making cheats for other game but im working on other projects which i might end up focusing fully on
 
 # What's Changed?
 
